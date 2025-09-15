@@ -56,7 +56,7 @@
 ## 📞 Поддержка
 
 По вопросам и поддержке:
-- Telegram: [t.me/fibashdlc](https://t.me/fibashdlc)
+- Telegram: [t.me/fibashdlc](https://t.me/xbash01)
 
 
 ---
@@ -65,3 +65,4 @@
   Сделано с ❤️ от <b>xbash</b>
 
 </p>
+
