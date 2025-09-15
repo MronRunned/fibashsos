@@ -1,7 +1,6 @@
 # AutoClicker для Dynast IO 🎮
 
 ![Версия](https://img.shields.io/badge/версия-1.0-blue)
-![Лицензия](https://img.shields.io/badge/лицензия-MIT-green)
 ![Платформа](https://img.shields.io/badge/платформа-Windows-lightgrey)
 
 <p align="center">
@@ -64,4 +63,5 @@
 
 <p align="center">
   Сделано с ❤️ от <b>xbash</b>
+
 </p>
