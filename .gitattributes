@@ -1,0 +1,20 @@
+*.cpp linguist-language=C++
+*.hpp linguist-language=C++
+*.h linguist-language=C++
+*.cc linguist-language=C++
+*.cxx linguist-language=C++
+*.hh linguist-language=C++
+*.hxx linguist-language=C++
+*.c++ linguist-language=C++
+
+*.py linguist-detectable=false
+*.js linguist-detectable=false
+*.java linguist-detectable=false
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.md linguist-detectable=false
+*.txt linguist-detectable=false
+*.json linguist-detectable=false
+*.xml linguist-detectable=false
+*.yml linguist-detectable=false
+*.yaml linguist-detectable=false
